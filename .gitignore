@@ -67,3 +67,4 @@ local.properties
 *.opensdf
 *.log
 VSProjects
+lib*
